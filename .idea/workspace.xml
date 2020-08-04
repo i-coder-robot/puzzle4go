@@ -5,60 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80c6f5eb-b427-4dc8-b448-39f6bd4bf3eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/puzzle01/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle03/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle04/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle04/work/iWork.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle05/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle06/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle07/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle08/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle09/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle10/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle11/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle12/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle13/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle14/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle15/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle16/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle17/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle18/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle19/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle20/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle21/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle22/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle23/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle24/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle25/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle26/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle27/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle28/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle29/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle30/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle31/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle32/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle33/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle34/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle35/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle36/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle37/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle38/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle39/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle40/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle41/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle42/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle43/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle44/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle45/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle46/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle47/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle48/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle49/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle50/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle51-68/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle69-100/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle30/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/puzzle30/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +39,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (2)">
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="puzzle4go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -107,11 +56,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="puzzle4go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/puzzle39/main.go" />
+      <filePath value="$PROJECT_DIR$/puzzle30/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -133,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go (5)" />
-        <item itemvalue="Go Build.go build main.go (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -146,38 +95,38 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1748" height="330" key="GridCell.Tab.0.bottom" timestamp="1596361866627">
+    <state width="1868" height="321" key="GridCell.Tab.0.bottom" timestamp="1596515748345">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866627" />
-    <state width="1748" height="330" key="GridCell.Tab.0.center" timestamp="1596361866626">
+    <state width="1868" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748345" />
+    <state width="1868" height="321" key="GridCell.Tab.0.center" timestamp="1596515748344">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866626" />
-    <state width="1748" height="330" key="GridCell.Tab.0.left" timestamp="1596361866625">
+    <state width="1868" height="321" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748344" />
+    <state width="1868" height="321" key="GridCell.Tab.0.left" timestamp="1596515748344">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866625" />
-    <state width="1748" height="330" key="GridCell.Tab.0.right" timestamp="1596361866627">
+    <state width="1868" height="321" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748344" />
+    <state width="1868" height="321" key="GridCell.Tab.0.right" timestamp="1596515748345">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866627" />
-    <state width="1748" height="330" key="GridCell.Tab.1.bottom" timestamp="1596361866629">
+    <state width="1868" height="321" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748345" />
+    <state width="1868" height="408" key="GridCell.Tab.1.bottom" timestamp="1596515748341">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866629" />
-    <state width="1748" height="330" key="GridCell.Tab.1.center" timestamp="1596361866628">
+    <state width="1868" height="408" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748341" />
+    <state width="1868" height="408" key="GridCell.Tab.1.center" timestamp="1596515748340">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866628" />
-    <state width="1748" height="330" key="GridCell.Tab.1.left" timestamp="1596361866628">
+    <state width="1868" height="408" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748340" />
+    <state width="1868" height="408" key="GridCell.Tab.1.left" timestamp="1596515748340">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866628" />
-    <state width="1748" height="330" key="GridCell.Tab.1.right" timestamp="1596361866629">
+    <state width="1868" height="408" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748340" />
+    <state width="1868" height="408" key="GridCell.Tab.1.right" timestamp="1596515748340">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1748" height="330" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1596361866629" />
+    <state width="1868" height="408" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1596515748340" />
     <state x="537" y="168" width="838" height="1032" key="search.everywhere.popup" timestamp="1596352936284">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
