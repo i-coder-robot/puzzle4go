@@ -5,103 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80c6f5eb-b427-4dc8-b448-39f6bd4bf3eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/puzzle101/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle102/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle103/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle104/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle105/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle106/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle107/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle108/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle109/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle110/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle111/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle112/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle113/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle114/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle115/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle116/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle117/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle118/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle119/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle120/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle121/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle122/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle123/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle124/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle125/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle128/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle131-138/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle139/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle140/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle141/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle142/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle143/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle144/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle145/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle146/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle147/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle148/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle151/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle152/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle153/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle154/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle155/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle156/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle01/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle02/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle02/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle03/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle03/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle04/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle04/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle04/work/iWork.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle04/work/iWork.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle05/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle05/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle06/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle06/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle07/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle07/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle08/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle08/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle09/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle09/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle10/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle10/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle11/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle11/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle12/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle12/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle13/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle13/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle14/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle14/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle15/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle15/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle16/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle16/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle17/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle17/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle18/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle18/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle19/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle19/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle20/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle20/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle21/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle21/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle22/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle22/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle23/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle23/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle24/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle24/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle25/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle25/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle26/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle26/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle27/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle27/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle28/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle28/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle29/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle29/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle30/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle30/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle31/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle31/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle32/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle32/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle33/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle33/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle34/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle34/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle35/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle35/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle36/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle36/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle37/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle37/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle38/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle38/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle39/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle39/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle40/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle40/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle41/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle41/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle42/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle42/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle43/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle43/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle44/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle44/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle45/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle45/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle46/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle46/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle47/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle47/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle48/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle48/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle49/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle49/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle50/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle50/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle51-68/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle51-68/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle69-100/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1-100/puzzle69-100/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle101/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle102/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle103/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle104/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle105/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle106/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle107/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle108/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle109/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle110/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle111/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle112/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle113/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle114/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle115/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle116/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle117/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle118/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle119/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle120/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle121/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle122/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle123/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle124/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle125/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle128/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle131-138/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle139/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle140/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle141/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle142/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle143/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle144/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle145/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle146/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle147/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle148/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle149/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle150/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle151/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle152/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle153/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle154/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle155/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle156/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,11 +186,6 @@
           <url>file://$PROJECT_DIR$/puzzle142/main.go</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/puzzle146/main.go</url>
-          <line>7</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
